@@ -1,3 +1,53 @@
 * {
     font-family: Tahoma, sans-serif;
 }
+
+body{
+    background-color:antiquewhite;
+}
+
+.title{
+    text-align: center;
+    font-size: 36px;
+    color:#a52a2a;
+}
+
+.link{
+    color:cadetblue;
+    text-decoration: none;
+}
+
+.link:hover{
+    color:cornflowerblue;
+}
+
+.image{
+    border-radius: 15px;
+    
+}
+
+.description-title{
+    font-size: 28px;
+    margin-top: 48px;
+    color: hsl(0, 40%, 40%);
+}
+
+.description{
+    color:hsl(15, 40%, 40%)
+}
+
+.ingredients-title{
+    color: hsl(45, 45%, 50%);
+}
+
+.ingredients{
+    color: hsl(60, 45%, 50%);
+}
+
+.steps-title{
+    color: hsl(75, 50%, 55%);
+}
+
+.steps{
+    color: hsl(90, 50%, 55%);
+}
